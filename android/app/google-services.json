@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723046150443",
+    "project_id": "saksi-8b2a2",
+    "storage_bucket": "saksi-8b2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723046150443:android:c2b1145b236f8df1b5156e",
+        "android_client_info": {
+          "package_name": "com.example.saksi_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjVx31wINpECLAEdxfrksTpT3dhqjis4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
